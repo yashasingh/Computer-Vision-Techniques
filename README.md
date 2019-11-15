@@ -1,4 +1,4 @@
-# Computer-Vision-Techniques Topics covered in this repository are as follows:
+## Computer-Vision-Techniques - Topics covered in this repository are as follows:
 
 In this repository the concepts of vision techniques have been implemented right from the basics of kernels and pyramids to the point of using pretrained Alexnet, VGG16 for scene recongnition.
 
